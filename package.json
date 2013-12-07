@@ -24,7 +24,9 @@
   "homepage": "https://github.com/hugey010/js_herok",
   "dependencies": {
     "logfmt": "~0.17.0",
-    "express": "~3.4.6"
+    "express": "~3.4.6",
+    "pg": "2.8.3",
+    "crpyto":"0.0.3"
   },
   "engine": "node 0.10.x"
  }
